@@ -23,7 +23,7 @@
 - [x] Training code
 - [x] Inference code
 - [x] Project page
-- [] Journal version
+- [ ] Journal version
 
 
 ## 🛠️ Getting Started
