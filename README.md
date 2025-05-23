@@ -6,7 +6,7 @@
 
 <p>
 <a href='https://arxiv.org/abs/2410.06664'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
-<a href='https://DeMe_Project.github.io/ReDDiT/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
+<a href='https://mqleet.github.io/DeMe_Project/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
 </p>
 
 </div>
@@ -15,12 +15,13 @@
 
 
 - [2025/02/27] DeMe has been accepted to CVPR 2025! 🤗🤗
+- [2025/05/23] Code has been released! 🤗🤗
 
 ## :memo: TODO
 
 - [ ] Training code
-- [ ] Inference code
-- [ ] Project page
+- [x] Inference code
+- [x] Project page
 
 
 
@@ -30,12 +31,12 @@
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-    @article{ma2024decouple,
-    title={Decouple-Then-Merge: Towards Better Training for Diffusion Models},
-    author={Ma, Qianli and Ning, Xuefei and Liu, Dongrui and Niu, Li and Zhang, Linfeng},
-    journal={arXiv preprint arXiv:2410.06664},
-    year={2024}
-    }
+   @InProceedings{ma2024decouple,
+         title={Decouple-Then-Merge: Towards Better Training for Diffusion Models},
+         author={Ma, Qianli and Ning, Xuefei and Liu, Dongrui and Niu, Li and Zhang, Linfeng},
+         booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+         year={2025}
+         }
    ```
 
 
