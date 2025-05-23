@@ -11,7 +11,6 @@
 
 </div>
 
-## Thanks for your interest in our work! I'm quite busy at this time and I'll take time to reorgnize the code and ckpts, then release them. Please stay tuned!🤗
 
 ## :fire: News
 
@@ -24,6 +23,7 @@
 - [x] Training code
 - [x] Inference code
 - [x] Project page
+- [] Journal version
 
 
 ## 🛠️ Getting Started
