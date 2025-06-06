@@ -105,12 +105,14 @@ to reproduce the results demonstrated in paper.
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-   @InProceedings{ma2024decouple,
-         title={Decouple-Then-Merge: Towards Better Training for Diffusion Models},
-         author={Ma, Qianli and Ning, Xuefei and Liu, Dongrui and Niu, Li and Zhang, Linfeng},
-         booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-         year={2025}
-         }
+      @InProceedings{Ma_2025_CVPR,
+      author    = {Ma, Qianli and Ning, Xuefei and Liu, Dongrui and Niu, Li and Zhang, Linfeng},
+      title     = {Decouple-Then-Merge: Finetune Diffusion Models as Multi-Task Learning},
+      booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+      month     = {June},
+      year      = {2025},
+      pages     = {23281-23291}
+      }
    ```
 
 
